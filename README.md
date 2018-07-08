@@ -51,11 +51,11 @@ SCSS, CSS architecture, UI/ UX
 Another front-end framework( Angular, vue)
 
 **3) Learn -**  
-Back-end language( Python/ Django), Progressive web app, Typescript
+Back-end language( Python/ Django), Progressive web app, Typescript, Database, SQL, MongoDB
 
 
 **4) More -**  
-Error message, data structure, Server Side rendering, Unit Test 
+Error message, data structure, Server Side rendering, Unit Test- jasmine, Karma 
 
 
 **Build -** 2 projects using Angular, 2 projects using Python/ Django
